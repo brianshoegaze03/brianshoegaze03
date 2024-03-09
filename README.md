@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">Mi nombre es brian gabriel hurtado moreno y soy peruano y me encanta mucho el tema de programación.</p>
+<p align="left">Mi nombre es brian gabriel hurtado moreno y soy peruano y encanta mucho el tema de programación.</p>
 
 ###
 
-<h6 align="left">About me</h6>
+<h4 align="left">About me</h4>
 
 ###
 
-<h6 align="left">-Técnico Informático con excelentes conocimientos y experiencia proporcionado un soporte excepcional a los usuarios de todos los niveles. Experto en cuestiones de soporte y encontrar soluciones. <br>-Desarrollador Full Stack/Frontend Engineer con 4 años de experiencia dirigiendo proyectos. Centrado en la creación de códigos claros y con capacidad para cumplir los objetivos y las necesidades del cliente.</h6>
+<p align="left">-Técnico Informático con excelentes conocimientos y experiencia proporcionado un soporte excepcional a los usuarios de todos los niveles. Experto en cuestiones de soporte y encontrar soluciones. <br>-Desarrollador Full Stack/Frontend Engineer con 4 años de experiencia dirigiendo proyectos. Centrado en la creación de códigos claros y con capacidad para cumplir los objetivos y las necesidades del cliente.</p>
 
 ###
 
