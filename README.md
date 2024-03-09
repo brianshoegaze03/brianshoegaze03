@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es brian gabriel hurtado moreno y soy peruano y encanta mucho el tema de programación.</p>
+<p align="left">Mi nombre es brian gabriel hurtado moreno y soy peruano y me encanta mucho el tema de programación.</p>
 
 ###
 
